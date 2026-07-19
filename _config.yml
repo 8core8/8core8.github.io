@@ -15,6 +15,9 @@ title: 8Core
 # Your name to show in the footer
 author: Admin
 
+url: "https://8core.co.uk"
+baseurl: ""
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
@@ -102,7 +105,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "8core.co.uk"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -302,4 +305,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
